@@ -26,7 +26,7 @@ A classic arcade-style Space Invaders game built with Python and Pygame. Defend 
 1. **Clone the repository:**
   git clone https://github.com/ojas-03/Space-Invaders-Pygame-.git
 
-  cd Space-Invaders-Pygame-
+    cd Space-Invaders-Pygame-
 
 3. **Install the required dependencies:**
    pip install pygame
