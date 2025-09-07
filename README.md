@@ -23,10 +23,11 @@ A classic arcade-style Space Invaders game built with Python and Pygame. Defend 
 
 ### Installation
 
-1. **Clone the repository:**
+1. **Clone the repository:** : 
+```text
   git clone https://github.com/ojas-03/Space-Invaders-Pygame-.git
-
-    cd Space-Invaders-Pygame-
+  cd Space-Invaders-Pygame-
+```
 
 3. **Install the required dependencies:**
    pip install pygame
@@ -65,6 +66,7 @@ A classic arcade-style Space Invaders game built with Python and Pygame. Defend 
 
 ## 📁 Project Structure
 
+```text
 Space-Invaders-Pygame-/
 ├── main.py # Main game file
 ├── assets/ # Game assets (create this folder)
@@ -76,6 +78,7 @@ Space-Invaders-Pygame-/
 │ ├── laser.wav # Shooting sound
 │ └── explosion.wav # Explosion sound
 └── README.md # Project documentation
+```
 
 ## 🎨 Game Mechanics
 
@@ -94,12 +97,14 @@ Space-Invaders-Pygame-/
 
 ## 🔧 Customization Options
 
+```text
 Easily modify these variables in `main.py`:
 num_of_enemies = 6 # Number of enemies
 playerX_change = 5 # Player movement speed
 enemyX_change = # Enemy horizontal speed range
 bulletY_change = 5 # Bullet speed
 enemyY_change = 20 # Enemy drop distance
+```
 
 ## 🐛 Known Issues & Future Enhancements
 
